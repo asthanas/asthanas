@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Saurabh Asthana**
 
 🎓 M.Tech in **Artificial Intelligence & Machine Learning**  
-🔬 **AI Researcher (in transition)** | LLMs | GenAI | MLOps | Multimodal | Responsible AI  
+🔬 **AI Researcher (in transition)** | LLMs | GenAI | MLOps | Multimodal | Responsible AI | **ML System Optimization**  
 ☁️ 14+ Years of Experience in Cloud & DevOps | 🧠 Building AI Systems that Scale
 
 > “I don’t just build models. I build the systems — and the trust — that make AI research impactful.”
@@ -17,7 +17,8 @@ I specialize in:
 - 🧠 Exploring **multimodal learning** (language + vision)  
 - ☁️ Architecting **infrastructure for large-scale distributed training**  
 - 🧪 Building reproducible **MLOps workflows** for AI research  
-- ⚖️ Integrating principles of **Fair, Interpretable & Trustworthy ML** into applied AI systems
+- ⚡ Optimizing **ML systems for performance, efficiency & scalability**  
+- ⚖️ Integrating principles of **Fair, Interpretable & Trustworthy ML**
 
 With a strong engineering backbone, I thrive at the intersection of **AI research**, **system design**, and **responsible innovation**.
 
@@ -29,7 +30,7 @@ With a strong engineering backbone, I thrive at the intersection of **AI researc
 |------------------------------------|---------------------------------------------------------------------------------------|
 | 📚 LLMs & GenAI                    | Pre-training, fine-tuning, LoRA, RAG, evaluation, domain adaptation                    |
 | 🖼️ Computer Vision                | Vision Transformers (ViTs), representation learning, multimodal fusion               |
-| ⚡ AI Systems                      | Distributed training, model optimization, quantization, inference pipelines          |
+| ⚡ **ML System Optimization**      | Distributed training, model efficiency, quantization, serving, cost & latency tuning |
 | 🧭 Responsible AI (FAccT)         | Fairness, interpretability, transparency, explainability, bias mitigation             |
 | 🧪 Research Infrastructure & MLOps | Experiment tracking, scaling, reproducibility, containerized workflows               |
 
@@ -73,9 +74,10 @@ With a strong engineering backbone, I thrive at the intersection of **AI researc
 | [**multimodal-ai-lab**](#) | Exploring joint learning from text & image inputs | Multimodal Learning | Transformers · OpenCV · PyTorch |
 | [**fair-ml-evaluation**](#) | Building a pipeline to evaluate ML models for fairness & interpretability | Responsible AI (FAccT) | AIF360 · SHAP · Sklearn |
 | [**mlops-for-research**](#) | Reproducible experiment orchestration at scale | MLOps | MLFlow · K8s · GitHub Actions |
+| [**ml-system-optimization**](#) | Experiments with distributed training, quantization & inference acceleration | ML System Optimization | PyTorch · CUDA · AWS |
 | [**distributed-training-infra**](#) | Cloud infra setup for distributed AI training | AI Infra | Terraform · Kubernetes · AWS Batch |
 
-👉 *(I’m gradually publishing my research projects & experiments — stay tuned.)*
+👉 *(Flagship repos will be pinned as they mature — stay tuned.)*
 
 ---
 
@@ -90,11 +92,11 @@ With a strong engineering backbone, I thrive at the intersection of **AI researc
 ## 🏆 Career Snapshot
 
 - 🧭 14+ years designing **scalable cloud & DevOps solutions** for global enterprises.  
-- 🧠 M.Tech in AI/ML with a research focus on **LLMs, multimodal learning, and Responsible AI**.  
-- 🤖 Strong applied experience in **model training, fine-tuning & optimization**.  
-- ⚡ Specialized in **distributed AI training**, **MLOps**, and reproducibility frameworks.  
+- 🧠 M.Tech in AI/ML with a research focus on **LLMs**, **Multimodal AI**, **ML System Optimization**, and **Responsible AI**.  
+- 🤖 Expertise in **model training, fine-tuning, optimization, and deployment** at scale.  
+- ⚡ Specialized in **distributed AI**, **system efficiency**, and **inference acceleration**.  
 - ⚖️ Passionate about building **fair, interpretable, and trustworthy ML systems**.  
-- 🧪 Deep belief in **open-source research** and transparent AI development.
+- 🧪 Believer in open research, reproducibility, and engineering rigor.
 
 ---
 
@@ -102,16 +104,16 @@ With a strong engineering backbone, I thrive at the intersection of **AI researc
 
 - ✍️ Fine-tuning and adapting **LLMs** for specialized domains  
 - 🖼️ Multimodal AI: bridging language and vision  
-- ⚡ Distributed & efficient AI training pipelines  
+- ⚡ **ML System Optimization**: quantization, LoRA, distillation, serving, performance tuning  
 - 🧭 MLOps for reproducible research  
-- ⚖️ **Fair, Interpretable, and Trustworthy ML** (FAccT): bias detection, mitigation, explainability
+- ⚖️ Fair, Interpretable, and Trustworthy ML (FAccT)
 
 ---
 
 ## 🌟 Long-Term Vision
 
 I aspire to grow as an **AI Researcher who codes** —  
-someone who contributes to **scientific advances** while **building the infrastructure and ethics frameworks** that make those advances usable and trustworthy in the real world.
+someone who contributes to **scientific advances** while **building the infrastructure and optimizations** that make those advances **scalable, efficient, and trustworthy** in the real world.
 
 ---
 
@@ -120,4 +122,4 @@ someone who contributes to **scientific advances** while **building the infrastr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saurabhasthana/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/saurabhasthana)
 
-⭐ *“True AI progress isn’t just about accuracy — it’s about fairness, transparency, and trust.”*
+⭐ *“Great models are built twice — once in research, and once again in optimized, responsible systems.”*
