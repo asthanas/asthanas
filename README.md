@@ -1,68 +1,113 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/asthanas/asthanas/blob/main/assets/banner.png" alt="banner" width="100%">
-</p>
+# 👋 Hi, I'm Saurabh Asthana  
 
-<h1 align="center">Hi 👋, I'm Saurabh Asthana</h1>
-<h3 align="center">M.Tech in AI/ML | 14+ Years in Cloud & DevOps | AI/ML + MLOps Enthusiast</h3>
+🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
+🔬 **Aspiring AI Researcher | Applied AI | Generative AI | MLOps**  
+☁️ 14+ Years of Experience in Cloud & DevOps Engineering  
 
----
-
-### 👨‍💻 About Me
-- 🎓 Pursuing **M.Tech in Artificial Intelligence & Machine Learning**
-- 💼 **14+ years** in **Cloud Architecture & DevOps** (AWS, Azure, Kubernetes/OpenShift, CI/CD)
-- 🚀 Building **intelligent systems at scale** (MLOps, GenAI, Distributed Computing)
-- 📚 Sharing knowledge via blogs & talks
+> “My goal is to bridge **fundamental AI research** and **scalable real-world deployment**.”
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-**AI / ML:**  
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Dask` `Transformers` `MLflow`  
+I’m an AI researcher-in-progress with a strong engineering backbone.  
+With 14+ years of Cloud & DevOps expertise, I bring deep experience in building, automating, and scaling infrastructure — now applied to **training, fine-tuning, and evaluating AI models at scale**.
 
-**DevOps / Cloud:**  
-`AWS` `Azure` `Kubernetes` `OpenShift` `Docker` `Terraform` `Helm`  
-`GitHub Actions` `GitLab CI/CD` `Jenkins` `Prometheus/Grafana`  
+My research interests include:
+- 🤖 Generative AI and LLMs  
+- 🧬 Transfer Learning & Efficient Fine-tuning  
+- 🧠 Multimodal AI (text, image, video)  
+- 🧪 Applied ML in production environments
 
-**Programming / Tools:**  
-`Python` `Java` `Bash` `SQL` `YAML` `Linux`
-
----
-
-### 📌 Featured Projects
-
-🌐 **MLOps-K8s-Pipeline** — End-to-end ML pipeline: train → containerize → deploy on Kubernetes.  
-🤖 **GenAI-Chatbot** — FastAPI-based LLM chatbot with OpenShift Route.  
-☁️ **Cloud-Optimized-ML** — Scale ML with Dask/Ray on cloud.  
-🔧 **DevOps-Toolkit** — Terraform + Helm + K8s automation for ML infra.
+I’m particularly passionate about **bridging research and application**, accelerating experimentation cycles through **MLOps** and **cloud-native compute**.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asthanas&show_icons=true&theme=radical" alt="GitHub stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthanas&layout=compact&theme=radical" alt="Top Languages" height="180">
-</p>
+## 🧪 Research Interests
 
-![MLOps](https://img.shields.io/badge/MLOps-Kubernetes-informational)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
-![Observability](https://img.shields.io/badge/Obs-Prometheus%2FGrafana-lightgrey)
-![Security](https://img.shields.io/badge/Security-SAST%2FTrivy-orange)
+- 🧠 **Large Language Models** (Pre-training, Fine-tuning, RAG)  
+- 🖼️ **Computer Vision & Multimodal Learning**  
+- ⚡ **Efficient AI Systems** (LoRA, Quantization, Model Optimization)  
+- 🧭 **MLOps for Research** — scaling experiments, reproducibility, and serving  
+- 🌐 AI Infrastructure & Distributed Training
 
 ---
 
-### ✍️ Blogs & Writing
-- 📖 Scaling AI with Kubernetes — (link to add)
-- 📖 Best Practices for MLOps Pipelines — (link to add)
-- 📖 From DevOps to MLOps: My Journey — (link to add)
+## 🧰 Skills & Tools
+
+### Core AI & Research
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+
+### Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FF7A59?logo=argo)
+
+### Research Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![W&B](https://img.shields.io/badge/Weights%20&%20Biases-FE4B2A?logo=weightsandbiases)
+![MLFlow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://github.com/asthanas" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
-</p>
+## 🧠 Featured Research & Projects
+
+| Project | Description | Focus Area | Stack |
+|---------|-------------|------------|-------|
+| [**llm-finetune-lora**](#) | Fine-tuning a transformer using LoRA for domain-specific tasks | LLM, NLP | PyTorch · HuggingFace · LoRA |
+| [**multimodal-ai-lab**](#) | Experiments combining text + image inputs for downstream tasks | Multimodal Learning | PyTorch · OpenCV · Transformers |
+| [**mlops-for-research**](#) | Automated experiment orchestration with versioning & tracking | MLOps | MLFlow · GitHub Actions · K8s |
+| [**cv-foundation-models**](#) | Transfer learning on vision transformers | CV | PyTorch · ViT · AWS |
+| [**distributed-training-infra**](#) | Infra setup for distributed AI training | AI Infra | Terraform · K8s · AWS Batch |
+
+*(📌 Replace `#` with actual repo links.)*
 
 ---
-⭐️ From [asthanas](https://github.com/asthanas)
+
+## 📊 GitHub Analytics
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhasthana&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhasthana&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhasthana&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 🏆 Career Snapshot
+
+- 🧭 14+ years architecting **scalable cloud & DevOps** solutions for global enterprises  
+- 🤖 Transitioned into AI/ML research with a strong focus on **Generative AI and LLMs**  
+- ☁️ Designed and automated ML pipelines, distributed training infra, and model deployment  
+- 🧪 Hands-on with **fine-tuning, optimization, and serving** of transformer models  
+- 🧑‍🏫 Passionate about open-source research and reproducible science
+
+---
+
+## 📚 Current Research Directions
+
+- ⚡ Efficient fine-tuning of LLMs  
+- 🧠 Multimodal foundation models  
+- 🌐 AI infrastructure for distributed training  
+- 🪄 MLOps tooling for research reproducibility  
+- 🧪 Applied GenAI in real-world settings
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saurabhasthana/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/saurabhasthana)
+
+---
+
+⭐ *“Research becomes impactful when ideas can scale beyond the lab. My mission is to make that bridge stronger — combining scientific curiosity with engineering execution.”*
