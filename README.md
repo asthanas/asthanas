@@ -1,77 +1,78 @@
-# 👋 Hi, I'm Saurabh Asthana  
+# 👋 Hi, I'm **Saurabh Asthana**
 
-🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
-🔬 **Aspiring AI Researcher | Applied AI | Generative AI | MLOps**  
-☁️ 14+ Years of Experience in Cloud & DevOps Engineering  
+🎓 M.Tech in **Artificial Intelligence & Machine Learning**  
+🔬 **AI Researcher (in transition)** | Applied GenAI | LLMs | MLOps | Multimodal Learning  
+☁️ 14+ Years of Experience in Cloud & DevOps | 🧠 Building AI Systems that Scale
 
-> “My goal is to bridge **fundamental AI research** and **scalable real-world deployment**.”
+> “I don’t just build models. I build the systems that make research scale.”
 
 ---
 
 ## 🧠 About Me
 
-I’m an AI researcher-in-progress with a strong engineering backbone.  
-With 14+ years of Cloud & DevOps expertise, I bring deep experience in building, automating, and scaling infrastructure — now applied to **training, fine-tuning, and evaluating AI models at scale**.
+I’m an AI researcher in the making — blending a decade of **Cloud & DevOps leadership** with deep curiosity in **modern AI research**.  
 
-My research interests include:
-- 🤖 Generative AI and LLMs  
-- 🧬 Transfer Learning & Efficient Fine-tuning  
-- 🧠 Multimodal AI (text, image, video)  
-- 🧪 Applied ML in production environments
+I specialize in:
+- 🔸 Fine-tuning & optimizing **LLMs** for domain-specific applications  
+- 🧠 Experimenting with **multimodal learning** (text + image)  
+- ⚡ Architecting **infrastructure for distributed AI research**  
+- 🧪 Building reproducible **MLOps workflows for research**  
+- 🤖 Bringing ideas from *paper → prototype → production*  
 
-I’m particularly passionate about **bridging research and application**, accelerating experimentation cycles through **MLOps** and **cloud-native compute**.
+With a strong engineering foundation, I thrive at the intersection of **research** and **real-world impact**.
 
 ---
 
 ## 🧪 Research Interests
 
-- 🧠 **Large Language Models** (Pre-training, Fine-tuning, RAG)  
-- 🖼️ **Computer Vision & Multimodal Learning**  
-- ⚡ **Efficient AI Systems** (LoRA, Quantization, Model Optimization)  
-- 🧭 **MLOps for Research** — scaling experiments, reproducibility, and serving  
-- 🌐 AI Infrastructure & Distributed Training
+| Domain 🧠                  | Focus Areas ✨                                                                |
+|---------------------------|-------------------------------------------------------------------------------|
+| 📚 LLMs & GenAI           | Pre-training, fine-tuning, LoRA, RAG, evaluation, responsible AI              |
+| 🖼️ Computer Vision       | Vision Transformers (ViTs), representation learning, multimodal fusion       |
+| ⚡ AI Systems             | Distributed training, model optimization, quantization, inference pipelines |
+| 🧭 Research Infra & MLOps | Experiment tracking, scaling, reproducibility, containerized workflows      |
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Core Skills & Tools
 
-### Core AI & Research
+### 🧠 AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
 
-### Cloud & Infra
+### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FF7A59?logo=argo)
 
-### Research Workflow
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+### 🧪 Research Workflow & Tooling
 ![W&B](https://img.shields.io/badge/Weights%20&%20Biases-FE4B2A?logo=weightsandbiases)
-![MLFlow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
 
 ---
 
-## 🧠 Featured Research & Projects
+## 🧪 Selected Research & Engineering Projects
 
-| Project | Description | Focus Area | Stack |
-|---------|-------------|------------|-------|
-| [**llm-finetune-lora**](#) | Fine-tuning a transformer using LoRA for domain-specific tasks | LLM, NLP | PyTorch · HuggingFace · LoRA |
-| [**multimodal-ai-lab**](#) | Experiments combining text + image inputs for downstream tasks | Multimodal Learning | PyTorch · OpenCV · Transformers |
-| [**mlops-for-research**](#) | Automated experiment orchestration with versioning & tracking | MLOps | MLFlow · GitHub Actions · K8s |
-| [**cv-foundation-models**](#) | Transfer learning on vision transformers | CV | PyTorch · ViT · AWS |
-| [**distributed-training-infra**](#) | Infra setup for distributed AI training | AI Infra | Terraform · K8s · AWS Batch |
+| 🧠 Project | 📝 Description | 🧰 Focus | 🧪 Stack |
+|-----------|---------------|---------|---------|
+| [**llm-finetune-lora**](#) | LoRA fine-tuning of LLMs for domain-specific tasks | LLM, NLP, Optimization | PyTorch · HuggingFace · LoRA |
+| [**multimodal-ai-lab**](#) | Exploring joint learning from text & image inputs | Multimodal Learning | Transformers · OpenCV · PyTorch |
+| [**mlops-for-research**](#) | Reproducible experiment orchestration at scale | MLOps, Research Infra | MLFlow · K8s · GitHub Actions |
+| [**cv-foundation-models**](#) | Vision Transformer experiments with transfer learning | Computer Vision | ViT · PyTorch · AWS |
+| [**distributed-training-infra**](#) | Cloud infra setup for distributed AI training | AI Infra | Terraform · Kubernetes · AWS Batch |
 
-*(📌 Replace `#` with actual repo links.)*
+👉 *(I’m gradually publishing my research projects & experiments — watch this space.)*
 
 ---
 
@@ -85,21 +86,28 @@ I’m particularly passionate about **bridging research and application**, accel
 
 ## 🏆 Career Snapshot
 
-- 🧭 14+ years architecting **scalable cloud & DevOps** solutions for global enterprises  
-- 🤖 Transitioned into AI/ML research with a strong focus on **Generative AI and LLMs**  
-- ☁️ Designed and automated ML pipelines, distributed training infra, and model deployment  
-- 🧪 Hands-on with **fine-tuning, optimization, and serving** of transformer models  
-- 🧑‍🏫 Passionate about open-source research and reproducible science
+- 🧭 14+ years leading **Cloud & DevOps engineering** for enterprise systems.  
+- 🧠 Research interest in **LLMs**, **multimodal AI**, and **efficient fine-tuning**.  
+- 🚀 Expertise in scaling AI workloads — distributed training, deployment, optimization.  
+- ⚡ Deep hands-on with **Kubernetes, OpenShift, Terraform**, and modern ML infra.  
+- 🧪 Passionate about **open-source AI research** and reproducibility.
 
 ---
 
 ## 📚 Current Research Directions
 
-- ⚡ Efficient fine-tuning of LLMs  
-- 🧠 Multimodal foundation models  
-- 🌐 AI infrastructure for distributed training  
-- 🪄 MLOps tooling for research reproducibility  
-- 🧪 Applied GenAI in real-world settings
+- ✍️ Fine-tuning and adapting **LLMs** for specialized domains  
+- 🖼️ Multimodal AI: bridging language and vision  
+- ⚡ Distributed & cost-efficient AI training pipelines  
+- 🧭 Reproducible research tooling (MLOps for researchers)  
+- 🧬 Model optimization: quantization, distillation, LoRA, PEFT
+
+---
+
+## 🌟 Long-Term Vision
+
+My ambition is to become an **AI Researcher who codes** —  
+someone who contributes not only to **theoretical breakthroughs** but also to **the engineering foundations** that make those breakthroughs scalable and accessible.
 
 ---
 
@@ -108,6 +116,4 @@ I’m particularly passionate about **bridging research and application**, accel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saurabhasthana/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/saurabhasthana)
 
----
-
-⭐ *“Research becomes impactful when ideas can scale beyond the lab. My mission is to make that bridge stronger — combining scientific curiosity with engineering execution.”*
+⭐ *“Research isn’t just about ideas. It’s about making those ideas work in the real world.”*
