@@ -119,6 +119,6 @@ someone who contributes to **scientific advances** while **building the infrastr
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saurabhasthana/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/saurabhasthana)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/asthanas)
 
 ⭐ *“Great models are built twice — once in research, and once again in optimized, responsible systems.”*
