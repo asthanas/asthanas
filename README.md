@@ -85,8 +85,7 @@ With a strong engineering backbone, I thrive at the intersection of **AI researc
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=asthanas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asthanas&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asthanas&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asthanas)](https://git.io/streak-stats)
 ---
 
 ## 🏆 Career Snapshot
